@@ -108,7 +108,7 @@ Common fraud detection metrics:
 The project compares how each model performs under different resampling strategies.
 This helps identify which combinations work best for detecting rare fraudulent transactions.
 
-##v🧪 Key Insights
+## 🧪 Key Insights
 
 Fraud detection performance improves drastically with SMOTE and oversampling
 
@@ -123,4 +123,4 @@ Undersampling reduces training time but may lose important patterns
 This project provides a systematic approach to dealing with imbalanced datasets for fraud detection.
 It highlights the importance of resampling methods and model comparison while maintaining clean, modular code using separate model scripts.
 
-# Dataset Link: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+### Dataset Link: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
