@@ -1,8 +1,8 @@
-### Credit Card Fraud Detection using Machine Learning
+# Credit Card Fraud Detection using Machine Learning
 
 - Handling Imbalanced Datasets with Multiple Resampling Techniques
 
-# 📌 Overview
+### 📌 Overview
 
 Credit card fraud is a major challenge in financial systems due to the extremely imbalanced nature of fraud vs. non-fraud transactions. This project focuses on:
 
